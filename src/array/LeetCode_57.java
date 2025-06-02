@@ -43,10 +43,7 @@ public class LeetCode_57 {
     }
 
     boolean isBetween(int num, int[] range) {
-        if (num >= range[0] && num <= range[1]) {
-            return true;
-        }
-        return false;
+        return num >= range[0] && num <= range[1];
     }
 
     void merge(int[] range1, int[] range2) {

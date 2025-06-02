@@ -1,4 +1,4 @@
-package lianbiao;
+package linkList;
 
 
 import java.util.*;

@@ -5,8 +5,6 @@ package search;
 // 写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
 //
 
-import lianbiao.LeetCode_206;
-
 public class LeetCode_704 {
 
     public static void main(String[] args) {
